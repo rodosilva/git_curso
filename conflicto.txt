@@ -1,4 +1,4 @@
 Primera línea
-Segunda línea
+Segunda línea modificada desde ramaconflictiva
 Tercera línea
 Cuarta línea
