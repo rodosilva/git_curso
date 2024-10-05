@@ -1,4 +1,0 @@
-Primera línea
-Segunda línea modificada desde main
-Tercera línea
-Cuarta línea
