@@ -1,5 +1,5 @@
 # Git Curso Profesional
-** Comandos **
+**Comandos**
 
 - `eval "$(ssh-agent -s)"` → Inicializar nuestras llaves
 - `git --version` 
