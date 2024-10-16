@@ -59,5 +59,6 @@
 - `ssh -T git@github.com` → Verificar que Git ya tiene nuestra llave 
 - `ssh-add ~/.ssh/id_ed25519` → Añadir
 - `ssh-keygen -t ed25519 -C "rodosilva.alpha@gmail.com"` → Crear llaves nuevas. Passphrase es una capa extra
-- `sudo apt install git-all` 
+- `sudo apt install git-all`
+- `basename -s .git "$(git config --get remote.origin.url)"` -> Ver el nombre del repo 
 
